@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving real world problems using Data and Statistical Computing.
 - 🌱 I’m currently learning SQL Server Management System, R, and Tableau
 
-- 📫 How to reach me on godfreylubangakene2@gmail.com +256776657714/+256758640351
+- 📫 Reach me on godfreylubangakene2@gmail.com +256776657714/+256758640351
 
 
 <!---
